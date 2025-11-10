@@ -139,4 +139,5 @@ Future Work
 Author
 ------
 
-**Sriharsha Rao C** – IIT Hyderabad
+**Sazid Ali** – IIT Hyderabad
+
